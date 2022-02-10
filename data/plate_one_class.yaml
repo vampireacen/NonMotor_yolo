@@ -1,0 +1,15 @@
+# NonMotor_Retrograde
+
+
+
+path: ../datasets/yolodatasets  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images  
+
+
+# Classes
+nc: 1  # number of classes
+names: ['Plate',]  # class names
+
+
+

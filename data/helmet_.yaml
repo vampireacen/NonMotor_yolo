@@ -1,0 +1,15 @@
+# NonMotor_Retrograde
+
+
+
+path: ../datasets/uniform_helmet  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images  
+
+
+# Classes
+nc: 2  # number of classes
+names: ['Helmet','NoHelmet']  # class names
+
+
+
